@@ -1,0 +1,9 @@
+D:\999\WinForms\WF_5\WF_5\WF_5\bin\Debug\WF_5.exe.config
+D:\999\WinForms\WF_5\WF_5\WF_5\bin\Debug\WF_5.exe
+D:\999\WinForms\WF_5\WF_5\WF_5\bin\Debug\WF_5.pdb
+D:\999\WinForms\WF_5\WF_5\WF_5\obj\Debug\WF_5.Form1.resources
+D:\999\WinForms\WF_5\WF_5\WF_5\obj\Debug\WF_5.Properties.Resources.resources
+D:\999\WinForms\WF_5\WF_5\WF_5\obj\Debug\WF_5.csproj.GenerateResource.Cache
+D:\999\WinForms\WF_5\WF_5\WF_5\obj\Debug\WF_5.exe
+D:\999\WinForms\WF_5\WF_5\WF_5\obj\Debug\WF_5.pdb
+D:\999\WinForms\WF_5\WF_5\WF_5\obj\Debug\WF_5.csprojResolveAssemblyReference.cache
