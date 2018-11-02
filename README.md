@@ -1,3 +1,2 @@
-# WindowsFormsDz_5
-<h1>Задание 1</h1>
-Создайте редактор на базе RichTextBox и добавьте в него возможность выбора из каталога и просмотра содержимого файла перетаскиванием файла на поле редактора. 
+<h1> Task 1 </h1>
+Create an editor based on RichTextBox and add the ability to select from the directory and view the contents of the file by dragging the file onto the editor field.
